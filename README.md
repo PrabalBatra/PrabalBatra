@@ -1,8 +1,8 @@
-<img src="https://github.com/PrabalBatra/your-banner-image-link.png" alt="Prabal Batra Banner" width="100%">
+<img src="https://github.com/PrabalBatra/PrabalBatra/blob/0db936406c97d12ecf62ec605c98725393d8949e/Banner" alt="Prabal Batra Banner" width="100%">
 
 # Hi, I'm Prabal Batra 👋
 
-### 🚀 AI Enthusiast | Innovator | Problem Solver
+### 🚀 Data Analytics | Innovator | Problem Solver
 
 I'm currently pursuing a **B.E. in Computer Science and Engineering** at **Chandigarh University**, with a passion for developing **AI-driven solutions** that address real-world challenges. My interests span across **Machine Learning**, **Computer Vision**, and **Deep Learning**, and I love working on projects that push the boundaries of technology.
 
