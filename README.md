@@ -1,80 +1,99 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:6D28D9,100:00D4FF&text=PRABAL.AI&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=AI%20Systems%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+# PRABAL.AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1200&pause=350&color=00D4FF&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+AI+SYSTEMS+INTERFACE...;%3E+LOADING+NEURAL+MODULES...;%3E+CONNECTING+RAG+MEMORY+LAYER...;%3E+BOOTING+MULTI-AGENT+ENGINE...;%3E+LLM+ORCHESTRATION+ONLINE...;%3E+SYSTEM+READY." />
+### AI Systems Engineer building Agentic AI, Multi-Agent Workflows & RAG Pipelines
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=900&pause=200&color=22C55E&center=true&vCenter=true&width=900&lines=%5B%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+10%25;%5B%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+20%25;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+40%25;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+60%25;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%5D+80%25;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%5D+100%25+SYSTEM+ONLINE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=600&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Reason;Designing+Multi-Agent+Workflows;Orchestrating+LLMs+For+Real-World+Execution;Turning+Complex+Problems+Into+AI+Systems" />
 
 <br>
 
-<img src="https://img.shields.io/badge/AGENTIC_CORE-ONLINE-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG_MEMORY-CONNECTED-00D4FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MULTI_AGENT_ENGINE-ACTIVE-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AGENTIC_AI-ONLINE-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MULTI_AGENT-ACTIVE-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-CONNECTED-00D4FF?style=for-the-badge" />
 
 </div>
 
 ---
 
-<div align="center">
+## 🧠 Neural Core
 
-```text
-┌──────────────────────────────────────────────┐
-│               PRABAL.AI                      │
-├──────────────────────────────────────────────┤
-│ ROLE: AI SYSTEMS ENGINEER                    │
-│ STATUS: ONLINE                               │
-│ CURRENT MISSION:                             │
-│ BUILDING AGENTIC AI SYSTEMS                  │
-│                                              │
-│ CORE: MULTI-AGENT • RAG • LLMs              │
-└──────────────────────────────────────────────┘
-```
+<table>
+<tr>
+<td align="center" width="25%">
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=8B5CF6&center=true&vCenter=true&width=180&height=35&lines=ONLINE;REASONING" />
+
+### Agentic AI
+
+Systems that reason, plan and execute workflows.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=00D4FF&center=true&vCenter=true&width=180&height=35&lines=ACTIVE;ORCHESTRATING" />
+
+### Multi-Agent
+
+Specialized agents for planning, retrieval and execution.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=22C55E&center=true&vCenter=true&width=180&height=35&lines=CONNECTED;RETRIEVING" />
+
+### RAG Systems
+
+Structured and vector retrieval pipelines for LLMs.
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=FF9800&center=true&vCenter=true&width=180&height=35&lines=RUNNING;EXECUTING" />
+
+### LLM Ops
+
+Prompt orchestration, context filtering and backend APIs.
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 Neural Core
+## ⚡ Capability Matrix
 
 <table>
 <tr>
 <td width="50%">
 
-### About
+### AI System Strength
 
-I build **AI systems that reason, retrieve, plan, and execute**.
-
-Currently focused on:
-
-- Agentic AI
-- Multi-Agent Systems
-- LLM Infrastructure
-- RAG Pipelines
-- Autonomous Workflows
-- Production AI Systems
-
-Previously worked across:
-
-→ Computer Vision  
-→ Deep Learning  
-→ NLP Systems
+<img src="https://progress-bar.dev/100/?title=Reasoning&width=420&color=8B5CF6" />
+<img src="https://progress-bar.dev/100/?title=Planning&width=420&color=00D4FF" />
+<img src="https://progress-bar.dev/92/?title=Execution&width=420&color=22C55E" />
+<img src="https://progress-bar.dev/100/?title=Retrieval&width=420&color=FF6B6B" />
+<img src="https://progress-bar.dev/90/?title=Automation&width=420&color=FF9800" />
 
 </td>
 
 <td width="50%">
 
-### Neural Capability Matrix
+### Live Focus
 
-```text
-Reasoning      ██████████ 100%
-Planning       ██████████ 100%
-Execution      █████████░  92%
-Retrieval      ██████████ 100%
-Automation     █████████░  90%
-Vision AI      ████████░░  80%
+```yaml
+role: AI Systems Engineer
+current_focus:
+  - Agentic AI Systems
+  - Multi-Agent Workflows
+  - LLM Orchestration
+  - RAG Pipelines
+  - Production AI Apps
+
+mission: Build AI systems that reason and execute.
 ```
 
 </td>
@@ -83,35 +102,31 @@ Vision AI      ████████░░  80%
 
 ---
 
-# 🤖 Active Systems
+## 🤖 Active Systems
 
 <table>
 <tr>
-
 <td width="50%">
 
 ## 🧠 Agentic Intelligence Platform
 
-```text
-STATUS: ACTIVE
-MODE: PRODUCTION
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=22C55E&width=260&height=35&lines=STATUS:+ACTIVE;MODE:+PRODUCTION;CORE:+AGENTIC_RAG" />
 
-Production-grade AI system for:
+Production-grade GenAI system using **Agentic / Structured RAG** for intelligent query understanding, task planning and execution.
 
-✔ Intelligent Query Understanding  
-✔ Task Decomposition  
-✔ Structured Retrieval  
-✔ LLM Orchestration  
-✔ Autonomous Execution  
+```yaml
+modules:
+  - intent_parser
+  - task_decomposer
+  - structured_retriever
+  - execution_engine
+  - response_generator
 
-### Telemetry
-
-```text
-100+ Queries/day
-92% Context Reduction
-60% Faster Responses
-40% Better Query Accuracy
+telemetry:
+  queries_per_day: 100+
+  context_reduction: 92%
+  latency_reduction: 60%
+  accuracy_improvement: 40%
 ```
 
 </td>
@@ -120,133 +135,174 @@ Production-grade AI system for:
 
 ## 🤖 Multi-Agent Research Engine
 
-```text
-STATUS: BUILDING
-MODE: REASONING
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=8B5CF6&width=260&height=35&lines=STATUS:+BUILDING;MODE:+REASONING;CORE:+LANGGRAPH" />
 
-Autonomous graph-based system for:
+Graph-based autonomous AI system using **LangChain + LangGraph** for research, retrieval, reasoning and summarization.
 
-✔ Research  
-✔ Planning  
-✔ Summarization  
-✔ Retrieval  
-✔ Reasoning  
+```yaml
+agents:
+  - planning_agent
+  - retrieval_agent
+  - research_agent
+  - analysis_agent
+  - summarization_agent
 
-### Agent Network
-
-```text
-Research Agent
-     ↓
-Planning Agent
-     ↓
-Retriever
-     ↓
-Reasoning Graph
-     ↓
-Response Generator
+workflow:
+  input: user_query
+  process: agent_graph
+  output: reasoned_response
 ```
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🧬 Evolution Timeline
+## 🧬 AI Evolution Timeline
 
-```text
-2023 ───────── Machine Learning / Computer Vision
+<table>
+<tr>
+<td align="center" width="25%">
 
-2024 ───────── Deep Learning + Research
+### 2023
 
-2025 ───────── GenAI + Multi-Agent Systems
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=500&color=64748B&center=true&vCenter=true&width=160&height=30&lines=ML+Foundations" />
 
-2026 ───────── Production AI Systems
-```
+Machine Learning  
+Computer Vision
+
+</td>
+
+<td align="center" width="25%">
+
+### 2024
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=500&color=00D4FF&center=true&vCenter=true&width=160&height=30&lines=Deep+Learning" />
+
+Research Systems  
+AI Prototypes
+
+</td>
+
+<td align="center" width="25%">
+
+### 2025
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=500&color=8B5CF6&center=true&vCenter=true&width=160&height=30&lines=GenAI+Systems" />
+
+RAG  
+Multi-Agent AI
+
+</td>
+
+<td align="center" width="25%">
+
+### 2026
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2500&pause=500&color=22C55E&center=true&vCenter=true&width=160&height=30&lines=Production+AI" />
+
+Agentic Systems  
+LLM Workflows
+
+</td>
+</tr>
+</table>
 
 ---
 
-# ⚙️ Core Stack
+## 🛠 Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git,fastapi,pytorch,tensorflow,opencv,sklearn,linux,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Multi--Agent_AI-7B61FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM_Orchestration-00D4FF?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent_AI-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-```text
-🏆 5+ National & State-Level Hackathon Wins
+<table>
+<tr>
+<td width="50%">
 
-📜 2 Patent Applications Published
+```yaml
+awards:
+  - Academic Excellence Award
+  - 5+ National / State Hackathon Wins
 
-📖 Published Technical Book Chapter
+publications:
+  - Technical Book Chapter
 
-🚀 Presented Enterprise AI Systems
-   to leadership and investor-facing stakeholders
-
-⚡ Building production-grade AI workflows
+patents:
+  - 2 Published Patent Applications
 ```
 
+</td>
+
+<td width="50%">
+
+```yaml
+enterprise_ai:
+  - Presented AI systems to leadership
+  - Contributed to investor-facing demos
+  - Built production-grade AI workflows
+
+focus:
+  - real_world_ai
+  - automation
+  - intelligent_systems
+```
+
+</td>
+</tr>
+</table>
+
 ---
 
-# 📊 Neural Activity
+## 📊 Neural Activity
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff"/>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="100%" />
 </p>
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/prabal-batra-69ab69260/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:batraprabal04@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/PrabalBatra">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 </p>
 
 ---
 
 <div align="center">
 
-### ⚡ Building systems that don't just respond — they reason.
+### Building systems that don't just respond — they reason.
 
 </div>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:6D28D9,100:00D4FF"/>
-</p>
