@@ -16,9 +16,11 @@
 
 ---
 
+<div align="center">
+
 ## 🧠 Neural Core
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td align="center" width="25%">
 
@@ -29,7 +31,6 @@
 Systems that reason, plan and execute workflows.
 
 </td>
-
 <td align="center" width="25%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=00D4FF&center=true&vCenter=true&width=180&height=35&lines=ACTIVE;ORCHESTRATING" />
@@ -39,7 +40,6 @@ Systems that reason, plan and execute workflows.
 Specialized agents for planning, retrieval and execution.
 
 </td>
-
 <td align="center" width="25%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=22C55E&center=true&vCenter=true&width=180&height=35&lines=CONNECTED;RETRIEVING" />
@@ -49,7 +49,6 @@ Specialized agents for planning, retrieval and execution.
 Structured and vector retrieval pipelines for LLMs.
 
 </td>
-
 <td align="center" width="25%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=FF9800&center=true&vCenter=true&width=180&height=35&lines=RUNNING;EXECUTING" />
@@ -62,11 +61,15 @@ Prompt orchestration, context filtering and backend APIs.
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## ⚡ Capability Matrix
 
-<table>
+<table align="center" width="85%">
 <tr>
 <td width="50%">
 
@@ -79,7 +82,6 @@ Prompt orchestration, context filtering and backend APIs.
 <img src="https://progress-bar.dev/90/?title=Automation&width=420&color=FF9800" />
 
 </td>
-
 <td width="50%">
 
 ### Live Focus
@@ -100,11 +102,15 @@ mission: Build AI systems that reason and execute.
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🤖 Active Systems
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="50%">
 
@@ -130,7 +136,6 @@ telemetry:
 ```
 
 </td>
-
 <td width="50%">
 
 ## 🤖 Multi-Agent Research Engine
@@ -157,11 +162,15 @@ workflow:
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🧬 AI Evolution Timeline
 
-<table>
+<table align="center" width="80%">
 <tr>
 <td align="center" width="25%">
 
@@ -173,7 +182,6 @@ Machine Learning
 Computer Vision
 
 </td>
-
 <td align="center" width="25%">
 
 ### 2024
@@ -184,7 +192,6 @@ Research Systems
 AI Prototypes
 
 </td>
-
 <td align="center" width="25%">
 
 ### 2025
@@ -195,7 +202,6 @@ RAG
 Multi-Agent AI
 
 </td>
-
 <td align="center" width="25%">
 
 ### 2026
@@ -209,30 +215,38 @@ LLM Workflows
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🛠 Core Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git,fastapi,pytorch,tensorflow,opencv,sklearn,linux,github,vscode&theme=dark" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent_AI-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Orchestration-00D4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git,fastapi,pytorch,tensorflow,opencv,sklearn,linux,github,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multi--Agent_AI-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Orchestration-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🏆 Achievements
 
-<table>
+<table align="center" width="85%">
 <tr>
 <td width="50%">
 
@@ -249,7 +263,6 @@ patents:
 ```
 
 </td>
-
 <td width="50%">
 
 ```yaml
@@ -268,24 +281,30 @@ focus:
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 Neural Activity
 
-<p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="100%" />
-</p>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="90%" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect
 
-<p align="center">
 <a href="https://www.linkedin.com/in/prabal-batra-69ab69260/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -297,11 +316,8 @@ focus:
 <a href="https://github.com/PrabalBatra">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
 
----
-
-<div align="center">
+<br><br>
 
 ### ⚡ Building systems that don't just respond — they reason.
 
