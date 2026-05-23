@@ -1,75 +1,78 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=260&color=gradient&text=PRABAL%20BATRA&fontSize=55&fontAlign=50&fontAlignY=42&desc=AI%20Systems%20Engineer&descAlign=50&descAlignY=62&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=28&duration=3500&pause=800&color=8B9EFF&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Reason;Multi-Agent+Systems+%7C+RAG+%7C+LLMs;Designing+Intelligent+Execution+Workflows;Turning+Complex+Problems+Into+AI+Systems" />
-</p>
+# PRABAL.AI
+
+### Building Intelligent Systems That Think, Reason & Execute
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=700&color=8B9EFF&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems;Multi-Agent+Architectures;RAG+Pipelines;LLM+Orchestration;Production+AI+Systems" />
+
+<br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=flat-square"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING_AI_SYSTEMS-8B9EFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-INDIA-white?style=flat-square"/>
+
+</div>
 
 ---
-
-# <p align="center">Neural OS • v2.0</p>
 
 <div align="center">
 
 ```text
-BOOTING PRABAL_AI_SYSTEM...
-
-[■■■■■■■■■■■■■■■■■■■■] 100%
-
-✓ Agentic Core Initialized
-✓ Multi-Agent Engine Loaded
-✓ RAG Memory Connected
-✓ LLM Orchestration Online
-✓ Autonomous Workflow Engine Active
-
-SYSTEM STATUS: OPERATIONAL
+┌──────────────────────────────────────────────┐
+│               PRABAL.AI                      │
+├──────────────────────────────────────────────┤
+│ ROLE: AI SYSTEMS ENGINEER                    │
+│ STATUS: ONLINE                               │
+│ CURRENT MISSION:                             │
+│ BUILDING AGENTIC AI SYSTEMS                  │
+│                                              │
+│ CORE: MULTI-AGENT • RAG • LLMs              │
+└──────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## <img width="28" src="https://img.icons8.com/fluency/48/artificial-intelligence.png"/> System Overview
+# Neural Core
 
 <table>
 <tr>
 <td width="50%">
 
-### 👋 About Me
+### About
 
-I'm **Prabal Batra**, an **AI Systems Engineer** focused on building intelligent systems that can:
+I build **AI systems that reason, retrieve, plan, and execute**.
 
-→ **reason**  
-→ **retrieve**  
-→ **plan**  
-→ **execute**
-
-Currently building **production-grade AI workflows** involving:
+Currently focused on:
 
 - Agentic AI
 - Multi-Agent Systems
-- Retrieval-Augmented Generation
-- LLM Orchestration
-- Intelligent Automation
+- LLM Infrastructure
+- RAG Pipelines
+- Autonomous Workflows
+- Production AI Systems
+
+Previously worked across:
+
+→ Computer Vision  
+→ Deep Learning  
+→ NLP Systems
 
 </td>
 
 <td width="50%">
 
-### ⚡ Current Mission
+### Neural Capability Matrix
 
-```yaml
-status: building
-focus:
-  - Agentic AI
-  - Multi-Agent Systems
-  - LLM Infrastructure
-  - Autonomous Workflows
-
-location: India 🇮🇳
-role: AI Systems Engineer
-mission: Solve real-world problems with AI
+```text
+Reasoning      ██████████ 100%
+Planning       ██████████ 100%
+Execution      █████████░  92%
+Retrieval      ██████████ 100%
+Automation     █████████░  90%
+Vision AI      ████████░░  80%
 ```
 
 </td>
@@ -78,24 +81,44 @@ mission: Solve real-world problems with AI
 
 ---
 
-# 🧠 Live System Status
+# System Architecture
 
-<p align="center">
+<div align="center">
 
-| System | Status |
-|--------|--------|
-| Agentic AI Core | 🟢 ONLINE |
-| Multi-Agent Engine | 🟢 ACTIVE |
-| RAG Memory | 🟢 CONNECTED |
-| LLM Pipeline | 🟢 RUNNING |
-| AI Research Engine | 🟡 TRAINING |
-| Autonomous Workflows | 🟢 DEPLOYED |
+```text
+                   USER QUERY
+                        │
+                        ▼
+               ┌────────────────┐
+               │ Intent Agent   │
+               └────────────────┘
+                        │
+                        ▼
+               ┌────────────────┐
+               │ Planning Agent │
+               └────────────────┘
+                  │          │
+          ┌───────┘          └────────┐
+          ▼                            ▼
+ ┌────────────────┐          ┌────────────────┐
+ │ Retrieval Core │          │ Execution Core │
+ └────────────────┘          └────────────────┘
+          │                            │
+          └────────────┬───────────────┘
+                       ▼
+               ┌────────────────┐
+               │ Summarization  │
+               └────────────────┘
+                        │
+                        ▼
+                  FINAL OUTPUT
+```
 
-</p>
+</div>
 
 ---
 
-# 🚀 Featured Systems
+# Active Systems
 
 <table>
 <tr>
@@ -104,33 +127,27 @@ mission: Solve real-world problems with AI
 
 ## 🧠 Agentic Intelligence Platform
 
-Production-grade AI system designed using **Agentic / Structured RAG**.
+```text
+STATUS: ACTIVE
+MODE: PRODUCTION
+```
 
-### Capabilities
+Production-grade AI system for:
 
-✔ Intent Parsing  
+✔ Intelligent Query Understanding  
 ✔ Task Decomposition  
-✔ Context Optimization  
-✔ Intelligent Query Planning  
+✔ Structured Retrieval  
+✔ LLM Orchestration  
 ✔ Autonomous Execution  
 
-### Performance Metrics
+### Telemetry
 
 ```text
 100+ Queries/day
 92% Context Reduction
 60% Faster Responses
-40% Accuracy Improvement
+40% Better Query Accuracy
 ```
-
-**Stack**
-
-`Python`
-`FastAPI`
-`LLMs`
-`RAG`
-`Docker`
-`PostgreSQL`
 
 </td>
 
@@ -138,38 +155,32 @@ Production-grade AI system designed using **Agentic / Structured RAG**.
 
 ## 🤖 Multi-Agent Research Engine
 
-Graph-based autonomous reasoning system using **LangChain + LangGraph**.
+```text
+STATUS: BUILDING
+MODE: REASONING
+```
+
+Autonomous graph-based system for:
+
+✔ Research  
+✔ Planning  
+✔ Summarization  
+✔ Retrieval  
+✔ Reasoning  
 
 ### Agent Network
 
-✔ Research Agent  
-✔ Retrieval Agent  
-✔ Planning Agent  
-✔ Analysis Agent  
-✔ Summarization Agent  
-
-### Workflow
-
 ```text
-Input
- ↓
+Research Agent
+     ↓
 Planning Agent
- ↓
+     ↓
 Retriever
- ↓
+     ↓
 Reasoning Graph
- ↓
-Execution
- ↓
-Final Response
+     ↓
+Response Generator
 ```
-
-**Stack**
-
-`LangChain`
-`LangGraph`
-`FAISS`
-`ChromaDB`
 
 </td>
 
@@ -178,90 +189,79 @@ Final Response
 
 ---
 
-## 🌕 Vision Intelligence System
+# Evolution Timeline
 
-```mermaid
-graph LR
+```text
+2023 ───────── Machine Learning / Computer Vision
 
-A[Satellite Imagery] --> B[Detection Model]
-B --> C[Image Segmentation]
-C --> D[Spatial Analysis]
-D --> E[Autonomous Navigation]
+2024 ───────── Deep Learning + Research
+
+2025 ───────── GenAI + Multi-Agent Systems
+
+2026 ───────── Production AI Systems
 ```
 
-AI-powered **computer vision system** for **lunar crater detection and autonomous navigation**.
+---
+
+# Technology Layer
+
+<div align="center">
+
+### Core Stack
+
+<img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git,fastapi,pytorch,tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Multi_Agent_AI-7B61FF?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# ⚙️ Technology Stack
+# Achievements
 
-### AI / LLM Systems
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,docker,postgres,git" />
-</p>
-
-<p align="center">
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blueviolet?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
-![Multi-Agent AI](https://img.shields.io/badge/Multi_Agent_AI-7B61FF?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-
-</p>
-
----
-
-# 🏆 Achievements
-
-<table>
-<tr>
-<td width="50%">
-
-🏅 Academic Excellence Award
-
-🏆 5+ National & State Hackathon Wins
+```text
+🏆 5+ National & State-Level Hackathon Wins
 
 📜 2 Patent Applications Published
 
 📖 Published Technical Book Chapter
 
-</td>
+🚀 Presented Enterprise AI Systems
+   to leadership and investor-facing stakeholders
 
-<td width="50%">
-
-🚀 Built enterprise AI systems
-
-🧠 Presented Agentic AI to leadership
-
-⚡ Contributed to AI-powered project bids
-
-🤖 Building production AI systems
-
-</td>
-</tr>
-</table>
+⚡ Building production-grade AI workflows
+```
 
 ---
 
-# 📈 Neural Activity
+# Neural Activity
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=transparent&hide_border=true&title_color=8B9EFF&text_color=C9D1D9&icon_color=8B9EFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B9EFF&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=transparent&hide_border=true&title_color=8B9EFF&text_color=ffffff"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B9EFF&text_color=ffffff"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B9EFF&line=8B9EFF&point=FFFFFF" width="100%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B9EFF&line=8B9EFF&point=FFFFFF" width="100%"/>
+
 </p>
 
 ---
 
-# 🌐 Connect
+<div align="center">
 
-<p align="center">
+## Connect
 
 <a href="https://www.linkedin.com/in/prabal-batra-69ab69260/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -275,16 +275,8 @@ AI-powered **computer vision system** for **lunar crater detection and autonomou
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
-
 ---
 
-<p align="center">
-  
-### *Building intelligent systems that reason, retrieve, and execute.*
+### Building systems that don't just respond — they reason.
 
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-</p>
+</div>
