@@ -1,16 +1,18 @@
 <div align="center">
 
-# PRABAL.AI
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,40:6D28D9,100:00D4FF&text=PRABAL.AI&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=AI%20Systems%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
 
-### Building Intelligent Systems That Think, Reason & Execute
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=Initializing+Agentic+AI+Core...;Loading+Multi-Agent+Reasoning+Engine...;Connecting+RAG+Memory+Layer...;LLM+Orchestration+Online...;System+Ready." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=1200&pause=350&color=00D4FF&center=true&vCenter=true&width=900&lines=%3E+INITIALIZING+AI+SYSTEMS+INTERFACE...;%3E+LOADING+NEURAL+MODULES...;%3E+CONNECTING+RAG+MEMORY+LAYER...;%3E+BOOTING+MULTI-AGENT+ENGINE...;%3E+LLM+ORCHESTRATION+ONLINE...;%3E+SYSTEM+READY." />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING_AI_SYSTEMS-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-white?style=flat-square"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=900&pause=200&color=22C55E&center=true&vCenter=true&width=900&lines=%5B%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+10%25;%5B%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+20%25;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+40%25;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%E2%96%A1%E2%96%A1%5D+60%25;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A1%E2%96%A1%5D+80%25;%5B%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%E2%96%A0%5D+100%25+SYSTEM+ONLINE" />
+
+<br>
+
+<img src="https://img.shields.io/badge/AGENTIC_CORE-ONLINE-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG_MEMORY-CONNECTED-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MULTI_AGENT_ENGINE-ACTIVE-8B5CF6?style=for-the-badge" />
 
 </div>
 
@@ -166,21 +168,22 @@ Response Generator
 
 ---
 
-# 🛠 Core Stack
+# ⚙️ Core Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git,fastapi,pytorch,tensorflow,opencv,sklearn,linux,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--Agent_AI-7B61FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Orchestration-00D4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multi--Agent_AI-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_Orchestration-00D4FF?style=for-the-badge" />
+
 </p>
 
 ---
@@ -240,6 +243,10 @@ Response Generator
 
 <div align="center">
 
-### Building systems that don't just respond — they reason.
+### ⚡ Building systems that don't just respond — they reason.
 
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,50:6D28D9,100:00D4FF"/>
+</p>
