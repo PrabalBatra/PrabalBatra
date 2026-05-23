@@ -4,12 +4,12 @@
 
 ### Building Intelligent Systems That Think, Reason & Execute
 
-<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3000&pause=700&color=8B9EFF&center=true&vCenter=true&width=900&lines=Agentic+AI+Systems;Multi-Agent+Architectures;RAG+Pipelines;LLM+Orchestration;Production+AI+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&lines=Initializing+Agentic+AI+Core...;Loading+Multi-Agent+Reasoning+Engine...;Connecting+RAG+Memory+Layer...;LLM+Orchestration+Online...;System+Ready." />
 
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=flat-square"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING_AI_SYSTEMS-8B9EFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING_AI_SYSTEMS-8B5CF6?style=flat-square"/>
 <img src="https://img.shields.io/badge/LOCATION-INDIA-white?style=flat-square"/>
 
 </div>
@@ -35,7 +35,7 @@
 
 ---
 
-# Neural Core
+# 🧠 Neural Core
 
 <table>
 <tr>
@@ -81,44 +81,7 @@ Vision AI      ████████░░  80%
 
 ---
 
-# System Architecture
-
-<div align="center">
-
-```text
-                   USER QUERY
-                        │
-                        ▼
-               ┌────────────────┐
-               │ Intent Agent   │
-               └────────────────┘
-                        │
-                        ▼
-               ┌────────────────┐
-               │ Planning Agent │
-               └────────────────┘
-                  │          │
-          ┌───────┘          └────────┐
-          ▼                            ▼
- ┌────────────────┐          ┌────────────────┐
- │ Retrieval Core │          │ Execution Core │
- └────────────────┘          └────────────────┘
-          │                            │
-          └────────────┬───────────────┘
-                       ▼
-               ┌────────────────┐
-               │ Summarization  │
-               └────────────────┘
-                        │
-                        ▼
-                  FINAL OUTPUT
-```
-
-</div>
-
----
-
-# Active Systems
+# 🤖 Active Systems
 
 <table>
 <tr>
@@ -189,7 +152,7 @@ Response Generator
 
 ---
 
-# Evolution Timeline
+# 🧬 Evolution Timeline
 
 ```text
 2023 ───────── Machine Learning / Computer Vision
@@ -203,28 +166,26 @@ Response Generator
 
 ---
 
-# Technology Layer
+# 🛠 Core Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git,fastapi,pytorch,tensorflow,opencv,sklearn,linux,github,vscode&theme=dark" />
+</p>
 
-### Core Stack
-
-<img src="https://skillicons.dev/icons?i=python,postgres,docker,aws,git,fastapi,pytorch,tensorflow" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Multi_Agent_AI-7B61FF?style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent_AI-7B61FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Orchestration-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
+</p>
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 ```text
 🏆 5+ National & State-Level Hackathon Wins
@@ -241,27 +202,25 @@ Response Generator
 
 ---
 
-# Neural Activity
+# 📊 Neural Activity
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=transparent&hide_border=true&title_color=8B9EFF&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B9EFF&text_color=ffffff"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B9EFF&line=8B9EFF&point=FFFFFF" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="100%"/>
 </p>
 
 ---
 
-<div align="center">
+# 🌐 Connect
 
-## Connect
+<p align="center">
 
 <a href="https://www.linkedin.com/in/prabal-batra-69ab69260/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -275,7 +234,11 @@ Response Generator
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</p>
+
 ---
+
+<div align="center">
 
 ### Building systems that don't just respond — they reason.
 
