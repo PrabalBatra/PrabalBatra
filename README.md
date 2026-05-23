@@ -1,67 +1,151 @@
-<img src="https://github.com/PrabalBatra/PrabalBatra/blob/0db936406c97d12ecf62ec605c98725393d8949e/Banner" alt="Prabal Batra Banner" width="100%">
+<img src="https://github.com/PrabalBatra/PrabalBatra/blob/main/Banner" alt="Prabal Batra Banner" width="100%" />
 
 # Hi, I'm Prabal Batra 👋
 
-### 🚀 Data Analytics | Innovator | Problem Solver
+### 🤖 AI Engineer | Agentic AI • Multi-Agent Systems • LLMs • RAG
 
-I'm currently pursuing a **B.E. in Computer Science and Engineering** at **Chandigarh University**, with a passion for developing **AI-driven solutions** that address real-world challenges. My interests span across **Machine Learning**, **Computer Vision**, and **Deep Learning**, and I love working on projects that push the boundaries of technology.
+I build **real-world AI systems that can reason, retrieve, plan, and execute complex workflows**.
 
----
+Currently focused on designing **production-grade intelligent systems** using **LLMs, Agentic AI, Multi-Agent Architectures, Retrieval-Augmented Generation (RAG), and autonomous workflows**.
 
-## 🔭 Current Projects
-### 🚁 [RoboCop](https://github.com/PrabalBatra)
-An **AI-driven robotic patrol system** aimed at enhancing road safety by detecting accidents in real-time and enabling instant communication with emergency services. Optimized for efficient highway monitoring using **computer vision algorithms**.
-
-### 🌑 [Moon Boulder Detection](https://github.com/PrabalBatra)
-A self-learning AI model for **crater detection**. I worked on **image segmentation** to build a system capable of accurately detecting both individual and large crater formations on the moon’s surface, reducing computational overhead through targeted processing.
-
-### 🎤 [Retina Voice Guard System](https://github.com/PrabalBatra)
-A patented voice recognition system that utilizes **AI and NLP** to enhance voice-based security systems. I led the team in developing this innovative solution, which is designed to improve secure authentication and communication processes.
+🚀 Currently working at **Genesys International Corporation Ltd.**, building **enterprise-grade AI systems** and contributing to **real-world intelligent automation workflows**.
 
 ---
 
-## 🏆 Achievements
-- **Achievers Award 2023** at Chandigarh University for national-level achievements.
-- Winner of **5+ Hackathons**, including **state** and **national-level** competitions.
-- Filed a **patent** for the **Retina Voice Recognition System**.
+## 🧠 About Me
+
+- 🤖 Building **Agentic AI Systems**
+- 🧠 Designing **Multi-Agent Workflows**
+- 🔍 Working on **Structured & Vector-based RAG**
+- ⚡ Developing **LLM Orchestration Pipelines**
+- 🚀 Building **Production-grade AI Applications**
+- 🏗 Solving **Real-World Intelligence Problems using AI**
+
+I enjoy building systems that move beyond simple chat interfaces and can **reason, plan, retrieve information, execute workflows, and generate intelligent outcomes autonomously**.
 
 ---
 
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-7289DA?style=for-the-badge&logo=nvidia&logoColor=white)
+# 🚀 Featured Projects
+
+## 🧠 Agentic RAG-Based Intelligence Platform
+
+A **production-grade GenAI system** designed using **Agentic / Structured RAG** to understand complex queries, reason over data, and execute intelligent workflows.
+
+### Key Highlights
+✅ Multi-Agent LLM Workflow Design  
+✅ Intent Parsing & Task Decomposition  
+✅ Structured Retrieval Pipeline  
+✅ Context Optimization (~92% token reduction)  
+✅ Response Latency Reduction (~60%)  
+✅ Production-Level Deployment  
+
+### Tech Used
+`Python` `FastAPI` `LLMs` `RAG` `PostgreSQL` `Docker` `Prompt Engineering`
 
 ---
 
-## 📊 GitHub Stats
+## 🤖 Multi-Agent Research & Reasoning System
 
-![Prabal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=dracula)
+A **graph-based autonomous AI system** using **LangChain + LangGraph** for intelligent planning, retrieval, reasoning, and execution.
 
----
+### Key Highlights
+✅ Graph-Based Agent Architecture  
+✅ Multi-Agent Collaboration  
+✅ Research & Summarization Agents  
+✅ Parallelized Task Execution  
+✅ Intelligent Query Planning  
 
-## 🌱 I’m currently learning
-- **Advanced Deep Learning** techniques to improve AI solutions.
-- **Cloud Computing** with a focus on **AWS**.
-
----
-
-## 🎯 What I’m up to next
-- Developing scalable AI models for **computer vision** and **voice recognition**.
-- Exploring more projects in **AI-powered robotics**.
+### Tech Used
+`LangChain` `LangGraph` `FAISS` `ChromaDB` `Python` `LLMs`
 
 ---
 
-## 📫 How to reach me
+## 🌕 Astroterra – Lunar Crater Detection & Autonomous Navigation
+
+A computer vision system for **lunar crater detection** using **CNN-based transfer learning** and image segmentation for autonomous navigation support.
+
+### Key Highlights
+✅ ~85–90% Detection Accuracy  
+✅ Image Tiling for Large-Scale Processing  
+✅ Spatial Indexing Optimization  
+✅ Reduced Duplicate Detection in Dense Regions  
+
+### Tech Used
+`PyTorch` `TensorFlow` `OpenCV` `Computer Vision`
+
+---
+
+# 🏆 Achievements
+
+🏅 **Academic Excellence Award** — Chandigarh University  
+
+🏆 Winner of **5+ National & State-Level Hackathons**
+
+📜 Filed & Published **2 Patent Applications**
+- AI Enabled Tracking-Based Security System  
+- Mycofibre Composite and Method for Synthesis Thereof
+
+📖 Published a **Book Chapter** in  
+**Hybrid Metal Additive Manufacturing Technology and Application (2023)**
+
+🚀 Presented **Agentic AI Systems** to **leadership and investor-facing stakeholders** during enterprise demonstrations and project bidding initiatives.
+
+---
+
+# 🛠 Tech Stack
+
+## AI / LLM Engineering
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge)
+![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent%20AI-7B61FF?style=for-the-badge)
+
+## Backend & Infrastructure
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## AI / ML & Development
+
+![PyTorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![Prabal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🎯 Currently Building
+
+- 🤖 Agentic AI Systems
+- 🧠 Multi-Agent Workflows
+- ⚡ LLM Orchestration Pipelines
+- 🔍 Retrieval-Augmented Intelligence Systems
+- 🚀 Production AI Applications
+
+---
+
+# 📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabal-batra-69ab69260/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrabalBatra)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:batraprabal04@gmail.com)
 
 ---
 
-**"Let's innovate and create technology for a better future!"** 🌟
+> **Building intelligent systems that reason, automate, and solve real-world problems.**
