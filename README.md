@@ -1,8 +1,8 @@
 <div align="center">
 
-# PRABAL.AI
+<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0D1117,35:4C1D95,65:7C3AED,100:00D4FF&text=PRABAL%20BATRA&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20Systems%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
 
-### AI Systems Engineer building Agentic AI, Multi-Agent Workflows & RAG Pipelines
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="75%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=600&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Reason;Designing+Multi-Agent+Workflows;Orchestrating+LLMs+For+Real-World+Execution;Turning+Complex+Problems+Into+AI+Systems" />
 
@@ -303,6 +303,6 @@ focus:
 
 <div align="center">
 
-### Building systems that don't just respond — they reason.
+### ⚡ Building systems that don't just respond — they reason.
 
 </div>
