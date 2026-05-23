@@ -1,16 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=340&color=0:0D1117,35:4C1D95,65:7C3AED,100:00D4FF&text=PRABAL%20BATRA&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20Systems%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0D1117,35:4C1D95,65:7C3AED,100:00D4FF&text=PRABAL%20BATRA&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=AI%20Systems%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" width="100%" />
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="75%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2400&pause=600&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Reason;Designing+Multi-Agent+Workflows;Orchestrating+LLMs+For+Real-World+Execution;Turning+Complex+Problems+Into+AI+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=900&lines=Agentic+AI;LLM+Orchestration;Multi-Agent+Systems;RAG+Pipelines;Production+AI+Workflows" />
 
 <br>
 
 <img src="https://img.shields.io/badge/AGENTIC_AI-ONLINE-22C55E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/MULTI_AGENT-ACTIVE-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-CONNECTED-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM_ORCHESTRATION-ACTIVE-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MULTI_AGENT-ACTIVE-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-CONNECTED-FF6B6B?style=for-the-badge" />
 
 </div>
 
@@ -31,6 +30,7 @@
 Systems that reason, plan and execute workflows.
 
 </td>
+
 <td align="center" width="25%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=00D4FF&center=true&vCenter=true&width=180&height=35&lines=ACTIVE;ORCHESTRATING" />
@@ -40,6 +40,7 @@ Systems that reason, plan and execute workflows.
 Specialized agents for planning, retrieval and execution.
 
 </td>
+
 <td align="center" width="25%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=22C55E&center=true&vCenter=true&width=180&height=35&lines=CONNECTED;RETRIEVING" />
@@ -49,6 +50,7 @@ Specialized agents for planning, retrieval and execution.
 Structured and vector retrieval pipelines for LLMs.
 
 </td>
+
 <td align="center" width="25%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=FF9800&center=true&vCenter=true&width=180&height=35&lines=RUNNING;EXECUTING" />
@@ -82,12 +84,14 @@ Prompt orchestration, context filtering and backend APIs.
 <img src="https://progress-bar.dev/90/?title=Automation&width=420&color=FF9800" />
 
 </td>
+
 <td width="50%">
 
 ### Live Focus
 
 ```yaml
 role: AI Systems Engineer
+
 current_focus:
   - Agentic AI Systems
   - Multi-Agent Workflows
@@ -95,7 +99,8 @@ current_focus:
   - RAG Pipelines
   - Production AI Apps
 
-mission: Build AI systems that reason and execute.
+mission:
+  Build AI systems that reason and execute.
 ```
 
 </td>
@@ -118,7 +123,7 @@ mission: Build AI systems that reason and execute.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=22C55E&width=260&height=35&lines=STATUS:+ACTIVE;MODE:+PRODUCTION;CORE:+AGENTIC_RAG" />
 
-Production-grade GenAI system using **Agentic / Structured RAG** for intelligent query understanding, task planning and execution.
+Production-grade GenAI system using **Agentic / Structured RAG** for intelligent query understanding, planning and execution.
 
 ```yaml
 modules:
@@ -136,13 +141,14 @@ telemetry:
 ```
 
 </td>
+
 <td width="50%">
 
 ## 🤖 Multi-Agent Research Engine
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=8B5CF6&width=260&height=35&lines=STATUS:+BUILDING;MODE:+REASONING;CORE:+LANGGRAPH" />
 
-Graph-based autonomous AI system using **LangChain + LangGraph** for research, retrieval, reasoning and summarization.
+Graph-based autonomous AI system using **LangChain + LangGraph** for reasoning and retrieval.
 
 ```yaml
 agents:
@@ -182,6 +188,7 @@ Machine Learning
 Computer Vision
 
 </td>
+
 <td align="center" width="25%">
 
 ### 2024
@@ -192,6 +199,7 @@ Research Systems
 AI Prototypes
 
 </td>
+
 <td align="center" width="25%">
 
 ### 2025
@@ -202,6 +210,7 @@ RAG
 Multi-Agent AI
 
 </td>
+
 <td align="center" width="25%">
 
 ### 2026
@@ -237,49 +246,6 @@ LLM Workflows
 <img src="https://img.shields.io/badge/Multi--Agent_AI-7B61FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLM_Orchestration-00D4FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-FF9800?style=for-the-badge" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Achievements
-
-<table align="center" width="85%">
-<tr>
-<td width="50%">
-
-```yaml
-awards:
-  - Academic Excellence Award
-  - 5+ National / State Hackathon Wins
-
-publications:
-  - Technical Book Chapter
-
-patents:
-  - 2 Published Patent Applications
-```
-
-</td>
-<td width="50%">
-
-```yaml
-enterprise_ai:
-  - Presented AI systems to leadership
-  - Contributed to investor-facing demos
-  - Built production-grade AI workflows
-
-focus:
-  - real_world_ai
-  - automation
-  - intelligent_systems
-```
-
-</td>
-</tr>
-</table>
 
 </div>
 
