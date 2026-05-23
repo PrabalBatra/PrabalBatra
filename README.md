@@ -82,12 +82,6 @@ Prompt orchestration, context filtering and backend APIs.
 
 ### AI System Strength
 
-<img src="https://progress-bar.dev/100/?title=Reasoning&width=420&color=8B5CF6" />
-<img src="https://progress-bar.dev/100/?title=Planning&width=420&color=00D4FF" />
-<img src="https://progress-bar.dev/92/?title=Execution&width=420&color=22C55E" />
-<img src="https://progress-bar.dev/100/?title=Retrieval&width=420&color=FF6B6B" />
-<img src="https://progress-bar.dev/90/?title=Automation&width=420&color=FF9800" />
-
 </td>
 
 <td width="50%">
