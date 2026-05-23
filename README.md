@@ -4,11 +4,7 @@
 
 <br>
 
-<h3 align="center">
-
-`Agentic AI • LLM Orchestration • Multi-Agent Systems • RAG Pipelines`
-
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=1800&pause=500&color=8B5CF6&center=true&vCenter=true&width=900&lines=Agentic+AI;LLM+Orchestration;Multi-Agent+Systems;RAG+Pipelines;Production+AI+Workflows" />
 
 <br>
 
@@ -30,9 +26,9 @@
 
 <td align="center" width="25%">
 
-### REASONING
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=8B5CF6&center=true&vCenter=true&width=180&height=35&lines=ONLINE;REASONING" />
 
-## Agentic AI
+### Agentic AI
 
 Systems that reason, plan and execute workflows.
 
@@ -40,9 +36,9 @@ Systems that reason, plan and execute workflows.
 
 <td align="center" width="25%">
 
-### ORCHESTRATING
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=00D4FF&center=true&vCenter=true&width=180&height=35&lines=ACTIVE;ORCHESTRATING" />
 
-## Multi-Agent
+### Multi-Agent
 
 Specialized agents for planning, retrieval and execution.
 
@@ -50,9 +46,9 @@ Specialized agents for planning, retrieval and execution.
 
 <td align="center" width="25%">
 
-### RETRIEVING
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=22C55E&center=true&vCenter=true&width=180&height=35&lines=CONNECTED;RETRIEVING" />
 
-## RAG Systems
+### RAG Systems
 
 Structured and vector retrieval pipelines for LLMs.
 
@@ -60,9 +56,9 @@ Structured and vector retrieval pipelines for LLMs.
 
 <td align="center" width="25%">
 
-### EXECUTING
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=500&color=FF9800&center=true&vCenter=true&width=180&height=35&lines=RUNNING;EXECUTING" />
 
-## LLM Ops
+### LLM Ops
 
 Prompt orchestration, context filtering and backend APIs.
 
@@ -131,9 +127,7 @@ mission:
 
 ## 🧠 Agentic Intelligence Platform
 
-🟢 **STATUS:** ACTIVE  
-⚡ **MODE:** PRODUCTION  
-🧠 **CORE:** AGENTIC_RAG
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=22C55E&width=280&height=35&lines=STATUS:+ACTIVE;MODE:+PRODUCTION;CORE:+AGENTIC_RAG" />
 
 <br>
 
@@ -160,9 +154,7 @@ telemetry:
 
 ## 🤖 Multi-Agent Research Engine
 
-🟣 **STATUS:** BUILDING  
-⚡ **MODE:** REASONING  
-🧠 **CORE:** LANGGRAPH
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=8B5CF6&width=280&height=35&lines=STATUS:+BUILDING;MODE:+REASONING;CORE:+LANGGRAPH" />
 
 <br>
 
@@ -183,7 +175,6 @@ workflow:
 ```
 
 </td>
-
 </tr>
 </table>
 
@@ -202,7 +193,7 @@ workflow:
 
 ### 2023
 
-**ML Foundations**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=500&color=64748B&center=true&vCenter=true&width=160&height=30&lines=ML+Foundations" />
 
 Machine Learning  
 Computer Vision
@@ -213,7 +204,7 @@ Computer Vision
 
 ### 2024
 
-**Deep Learning**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=500&color=00D4FF&center=true&vCenter=true&width=160&height=30&lines=Deep+Learning" />
 
 Research Systems  
 AI Prototypes
@@ -224,7 +215,7 @@ AI Prototypes
 
 ### 2025
 
-**GenAI Systems**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=500&color=8B5CF6&center=true&vCenter=true&width=160&height=30&lines=GenAI+Systems" />
 
 RAG  
 Multi-Agent AI
@@ -235,7 +226,7 @@ Multi-Agent AI
 
 ### 2026
 
-**Production AI**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=500&color=22C55E&center=true&vCenter=true&width=160&height=30&lines=Production+AI" />
 
 Agentic Systems  
 LLM Workflows
