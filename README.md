@@ -261,10 +261,6 @@ LLM Workflows
 
 ## 📊 Neural Activity
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=PrabalBatra&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrabalBatra&layout=compact&theme=transparent&hide_border=true&title_color=8B5CF6&text_color=ffffff" />
-
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrabalBatra&theme=github-compact&hide_border=true&bg_color=00000000&color=8B5CF6&line=8B5CF6&point=FFFFFF" width="90%" />
