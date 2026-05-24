@@ -89,7 +89,7 @@ Prompt orchestration, context filtering and backend APIs.
 ### Live Focus
 
 ```yaml
-role: AI Systems Engineer
+role: AI Engineer
 
 current_focus:
   - Agentic AI Systems
